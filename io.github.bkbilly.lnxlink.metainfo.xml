@@ -42,6 +42,16 @@
   </categories>
   <icon type="stock">io.github.bkbilly.lnxlink</icon>
   <releases>
+    <release version="2024.8.1" date="2024-08-16">
+      <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
+      <description>
+        <p>Run without configuration options</p>
+          <ul>
+            <li>Defaults configuration to ~/Documents/lnxlink.yaml</li>
+            <li>Add Docker containers</li>
+          </ul>
+      </description>
+    </release>
     <release version="2024.8.0" date="2024-08-05">
       <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
       <description>
