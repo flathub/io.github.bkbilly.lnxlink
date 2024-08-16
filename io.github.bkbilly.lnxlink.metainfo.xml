@@ -42,6 +42,16 @@
   </categories>
   <icon type="stock">io.github.bkbilly.lnxlink</icon>
   <releases>
+    <release version="2024.8.2" date="2024-08-17">
+      <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
+      <description>
+        <p>SystemD</p>
+          <ul>
+            <li>Add SystemD use inside flatpak with DBUS</li>
+            <li>Defaults configuration to ~/Documents/LNXlink/config.yaml</li>
+          </ul>
+      </description>
+    </release>
     <release version="2024.8.1" date="2024-08-16">
       <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
       <description>
