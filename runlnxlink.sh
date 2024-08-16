@@ -1,3 +1,3 @@
 #!/bin/bash
 
-lnxlink -ic ~/Documents/lnxlink.yaml
+lnxlink -ic ~/Documents/LNXlink/config.yaml
