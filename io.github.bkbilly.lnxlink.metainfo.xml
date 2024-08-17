@@ -2,7 +2,7 @@
 <component type="console-application">
   <content_rating type="oars-1.1" />
   <id>io.github.bkbilly.lnxlink</id>
-  <name>LNXlink</name>  
+  <name>LNXlink</name>
 
   <metadata_license>MIT</metadata_license>
   <project_license>MIT</project_license>
@@ -42,6 +42,15 @@
   </categories>
   <icon type="stock">io.github.bkbilly.lnxlink</icon>
   <releases>
+    <release version="2024.8.3" date="2024-08-18">
+      <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
+      <description>
+        <p>xrandr and xset tools</p>
+          <ul>
+            <li>Support for brightness, screen_onoff, keep_alive modules</li>
+          </ul>
+      </description>
+    </release>
     <release version="2024.8.2" date="2024-08-17">
       <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
       <description>
