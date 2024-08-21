@@ -51,6 +51,16 @@
           </ul>
       </description>
     </release>
+  <releases>
+    <release version="2024.8.4" date="2024-08-21">
+      <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
+      <description>
+        <p>2024.8.4</p>
+          <ul>
+            <li>Support for nvidia gpu</li>
+          </ul>
+      </description>
+    </release>
     <release version="2024.8.2" date="2024-08-17">
       <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
       <description>
