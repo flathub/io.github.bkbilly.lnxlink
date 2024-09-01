@@ -42,6 +42,22 @@
   </categories>
   <icon type="stock">io.github.bkbilly.lnxlink</icon>
   <releases>
+    <release version="2024.9.0" date="2024-09-02">
+      <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
+      <description>
+        <p>2024.9.0</p>
+          <ul>
+            <li>Add: Docker module</li>
+            <li>Add: Disk IO module</li>
+            <li>Add: Clear sensor values on disconnect</li>
+            <li>Fix: Media player for Fedora installations</li>
+            <li>Fix: GPU not starting</li>
+            <li>Fix: Restart/Shutdown checks for successful command execution</li>
+            <li>Fix: Modules behavior improvements (ir_remote, keep_alive, interface_time, camera_used)</li>
+            <li>Changed: SystemD module to use DBus</li>
+          </ul>
+      </description>
+    </release>
     <release version="2024.8.4" date="2024-08-18">
       <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
       <description>
