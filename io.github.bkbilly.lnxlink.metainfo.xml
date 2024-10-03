@@ -58,6 +58,17 @@
           </ul>
       </description>
     </release>
+    <release version="2024.10.0" date="2024-10-03">
+      <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
+      <description>
+        <p>2024.10.0</p>
+          <ul>
+            <li>Fix: Camera used module for some applications</li>
+            <li>Fix: Notification not showing</li>
+            <li>Change: HACS integration MQTT Media player configuration through UI</li>
+          </ul>
+      </description>
+    </release>
     <release version="2024.8.4" date="2024-08-18">
       <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
       <description>

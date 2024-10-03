@@ -151,12 +151,12 @@ modules:
     buildsystem: simple
     build-commands:
       - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}"
-        --prefix=${FLATPAK_DEST} "dbus-mediaplayer>=2024.7.3" --no-build-isolation
+        --prefix=${FLATPAK_DEST} "dbus-mediaplayer>=2024.8.0" --no-build-isolation
     sources:
       - *id006
       - type: file
-        url: https://files.pythonhosted.org/packages/f5/05/8d25b87a592702c9c07867af0896c25554ebfe4d830bd5949252c4eca94f/dbus_mediaplayer-2024.7.3-py3-none-any.whl
-        sha256: 5e2164b2d301be0516929eff093136a5605b259edfa8e2234db0cac5dbf3386b
+        url: https://files.pythonhosted.org/packages/b2/bc/f716ba0d518884c9836389095acd238ff44d66f70f9a5421d439e6fcb303/dbus_mediaplayer-2024.8.0-py3-none-any.whl
+        sha256: 43cb31d3e9cbba3e50e9e283a0f0684dc366703a8f59bf4541ce69fb3c7f2dae
       - *id007
       - *id008
   - name: python3-dbus-networkdevices
