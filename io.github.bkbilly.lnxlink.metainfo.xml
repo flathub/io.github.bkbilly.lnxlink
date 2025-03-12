@@ -10,6 +10,9 @@
     <name>bkbilly</name>
   </developer>
   <url type="homepage">https://bkbilly.gitbook.io/lnxlink</url>
+  <url type="bugtracker">https://github.com/bkbilly/lnxlink/issues</url>
+  <url type="donation">https://github.com/sponsors/bkbilly</url>
+  <url type="vcs-browser">https://github.com/bkbilly/lnxlink</url>
 
   <summary>Manage Linux machine with MQTT</summary>
   <description>
