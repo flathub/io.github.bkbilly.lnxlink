@@ -45,6 +45,15 @@
   </categories>
   <icon type="stock">io.github.bkbilly.lnxlink</icon>
   <releases>
+    <release version="2025.6.0" date="2025-06-03">
+      <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
+      <description>
+        <p>2025.6.0</p>
+          <ul>
+            <li>Stabilize runtime</li>
+          </ul>
+      </description>
+    </release>
     <release version="2024.10.1" date="2024-10-03">
       <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
       <description>
