@@ -10,9 +10,6 @@
     <name>bkbilly</name>
   </developer>
   <url type="homepage">https://bkbilly.gitbook.io/lnxlink</url>
-  <url type="bugtracker">https://github.com/bkbilly/lnxlink/issues</url>
-  <url type="donation">https://github.com/sponsors/bkbilly</url>
-  <url type="vcs-browser">https://github.com/bkbilly/lnxlink</url>
 
   <summary>Manage Linux machine with MQTT</summary>
   <description>
@@ -45,69 +42,6 @@
   </categories>
   <icon type="stock">io.github.bkbilly.lnxlink</icon>
   <releases>
-    <release version="2025.6.0" date="2025-06-03">
-      <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
-      <description>
-        <p>2025.6.0</p>
-          <ul>
-            <li>Stabilize runtime</li>
-          </ul>
-      </description>
-    </release>
-    <release version="2024.10.1" date="2024-10-03">
-      <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
-      <description>
-        <p>2024.10.1</p>
-          <ul>
-            <li>Fix: Media play topic</li>
-          </ul>
-      </description>
-    </release>
-    <release version="2024.10.0" date="2024-10-03">
-      <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
-      <description>
-        <p>2024.10.0</p>
-          <ul>
-            <li>Fix: Camera used module for some applications</li>
-            <li>Fix: Notification not showing</li>
-            <li>Change: HACS integration MQTT Media player configuration through UI</li>
-          </ul>
-      </description>
-    </release>
-    <release version="2024.9.0" date="2024-09-02">
-      <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
-      <description>
-        <p>2024.9.0</p>
-          <ul>
-            <li>Add: Docker module</li>
-            <li>Add: Disk IO module</li>
-            <li>Add: Clear sensor values on disconnect</li>
-            <li>Fix: Media player for Fedora installations</li>
-            <li>Fix: GPU not starting</li>
-            <li>Fix: Restart/Shutdown checks for successful command execution</li>
-            <li>Fix: Modules behavior improvements (ir_remote, keep_alive, interface_time, camera_used)</li>
-            <li>Changed: SystemD module to use DBus</li>
-          </ul>
-      </description>
-    </release>
-    <release version="2024.8.4" date="2024-08-18">
-      <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
-      <description>
-        <p>2024.8.4</p>
-          <ul>
-            <li>Support for nvidia gpu module</li>
-          </ul>
-      </description>
-    </release>
-    <release version="2024.8.3" date="2024-08-18">
-      <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
-      <description>
-        <p>xrandr and xset tools</p>
-          <ul>
-            <li>Support for brightness, screen_onoff, keep_alive modules</li>
-          </ul>
-      </description>
-    </release>
     <release version="2024.8.2" date="2024-08-17">
       <url type="details">https://github.com/bkbilly/lnxlink/releases</url>
       <description>
