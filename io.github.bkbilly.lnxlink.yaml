@@ -1,6 +1,6 @@
 id: io.github.bkbilly.lnxlink
 runtime: org.gnome.Platform
-runtime-version: '48'
+runtime-version: '50'
 sdk: org.gnome.Sdk
 command: runlnxlink
 finish-args:
@@ -26,8 +26,8 @@ finish-args:
   - --filesystem=~/Documents/LNXlink:create
   # Access to filesystem
   - --filesystem=/tmp/lnxlink:create
-  - --filesystem=/var/run/reboot-required
-  - --filesystem=/var/run/docker.sock
+  - --filesystem=/run/reboot-required
+  - --filesystem=/run/docker.sock
   # Access to camera, gamepad
   - --device=all
 modules:
